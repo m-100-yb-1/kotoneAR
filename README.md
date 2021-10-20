@@ -18,3 +18,6 @@ Please use "kotone AR" in such a case.<br>
 Your face instantly transforms into a "kotone".<br>
 <br>
 An inspiring experience for you.<br>
+
+//PatchEditor
+<img width="718" alt="スクリーンショット 2021-10-20 22 46 16" src="https://user-images.githubusercontent.com/89561421/138105369-575183ae-01dd-4fa2-bd4e-b8b3e2c50a3c.png">
